@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Callyo Home Page": {
+      "applicationId": "tx0egNVB9QP7fu1r8XPaJbUZSzySrB90YwkFOw2K"
+    },
+    "_default": {
+      "link": "Callyo Home Page"
+    }
+  }
+}
